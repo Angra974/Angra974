@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Parlier Thierry</h1>
 <h3 align="center">A passionate software engineer from Reunion Island, France ( near Mauritius )</h3>
 
