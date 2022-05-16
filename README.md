@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/mrnemesys" target="blank"><img src="https://img.shields.io/twitter/follow/mrnemesys?logo=twitter&style=for-the-badge" alt="mrnemesys" /></a> </p>
 
-
 - 🔭 I’m currently working on [my portfolio](https://thierryparlier.netlify.app)
 
 - 🌱 I’m currently digging more on **Figma, React, TypeScript and more of Javascript**
@@ -24,7 +23,6 @@
 - 📄 Know about my experiences [https://thierryparlier.netlify.app](https://thierryparlier.netlify.app)
 
 - ⚡ Fun fact **Chuck Norris is a backend dev**
-
 
 ---
 
@@ -42,18 +40,17 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" **alt="Express" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQl" **alt="GraphQl" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MondoDB" width="40" height="40"/>&nbsp;  
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;  
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" **alt="VsCode" width="40" height="40"/>&nbsp;  
-  
-  
-  
-
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" **alt="MondoDB" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" **alt="VsCode" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
+| Some of my work |
+| :-------------: |
+
+|<img src="./gifs/Source.gif" width="300" height="200"  alt="Source Playground" title="Source Playgound" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,4 +59,3 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=angra974&show_icons=true&locale=en" alt="angra974" /></p>
-
