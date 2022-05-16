@@ -50,7 +50,15 @@
 | Some of my work |
 | :-------------: |
 
-|<img src="./gifs/Source.gif" width="300" height="200"  alt="Source Playground" title="Source Playgound" />
+|[<img src="./gifs/Source.gif" width="300" height="200"  alt="Source Playground" title="Source Playgound" />](https://angra974.github.io/-100devs-level-ground/)
+
+<hr />
+Practicing float positionning - responsive |
+
+|[<img src="./gifs/Restaurant.gif" alt="Restaurant" title="Restaurant" />](https://angra974.github.io/-100devs-restaurant/)
+
+<hr />
+Practicing float positionning - responsive |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
