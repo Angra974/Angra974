@@ -76,13 +76,16 @@
 <h3 color="white">Home wireframe</h2>
 <p>
 <a href='https://github.com/Angra974/-100devs-homepage-wireframe'>
-</a>
   <img src='./gifs/homewireframe.gif' title="Home wireframe" alt="Home wireframe" />
-
+</a>
+</p>
+<p>
   <a href="https://github.com/Angra974/-100devs-homepage-wireframe" target="_blank">
 
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>
+
+
 <a href="https://angra974.github.io/-100devs-homepage-wireframe/" target="_blank">
 <img src="https://img.shields.io/badge/-website-blue?style=for-the-badge"/>
 </a>
@@ -100,7 +103,7 @@
 </a>
 
 
-  <img src='./gifs/restaurant.gif' title="Restaurant" alt="restaurant" />
+  <img src='./gifs/Restaurant.gif' title="Restaurant" alt="restaurant" />
 
   <a href="https://angra974.github.io/-100devs-restaurant/" target="_blank">
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
@@ -170,11 +173,11 @@
 
 <a href='angra974.github.io/-100devs-cocktails/'>
 </a>
-  <img src='./gifs/cocktail.gif' title="Restaurant" alt="restaurant">
+  <img src='./gifs/cocktail.gif' title="Cocktail" alt="restaurant">
 <br>
 <br>
 
-  <a href="https://angra974.github.io/-100devs-restaurant/" target="_blank">
+  <a href="https://angra974.github.io/-100devs-cocktails/" target="_blank">
 
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>
