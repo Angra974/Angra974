@@ -57,8 +57,7 @@
 <a href='https://github.com/Angra974/-100devs-level-ground'>
 </a>
   <img src='./gifs/level-ground.gif' title="Level Ground" alt="Level Ground">
-<br>
-<br>
+
 
   <a href="https://github.com/Angra974/-100devs-level-ground" target="_blank">
 
@@ -70,9 +69,7 @@
 </p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-
 </p>
-
 </td>
 
 <td width="50%" align="center" >
@@ -80,9 +77,7 @@
 <p>
 <a href='https://github.com/Angra974/-100devs-homepage-wireframe'>
 </a>
-  <img src='./gifs/homewireframe.gif' title="Home wireframe" alt="Home wireframe">
-<br>
-<br>
+  <img src='./gifs/homewireframe.gif' title="Home wireframe" alt="Home wireframe" />
 
   <a href="https://github.com/Angra974/-100devs-homepage-wireframe" target="_blank">
 
@@ -95,36 +90,22 @@
 <p><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</p>
 </p>
-
 </td>
 </tr>
-
-
-
-
-
-
-
-
-
-
-
-
 <tr>
 <td width="50%" align="center" >
 <h3 color="white">Restaurant</h2>
 <p>
 <a href='https://angra974.github.io/-100devs-restaurant/'>
 </a>
-  <img src='./gifs/restaurant.gif' title="Restaurant" alt="restaurant">
-<br>
-<br>
+
+
+  <img src='./gifs/restaurant.gif' title="Restaurant" alt="restaurant" />
 
   <a href="https://angra974.github.io/-100devs-restaurant/" target="_blank">
-
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://animal-crossing-app.netlify.app/" target="_blank">
+<a href="https://angra974.github.io/-100devs-restaurant/" target="_blank">
 <img src="https://img.shields.io/badge/-website-blue?style=for-the-badge"/>
 </a>
 </p>
@@ -148,7 +129,7 @@
 
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://animal-crossing-app.netlify.app/" target="_blank">
+<a href="https://angra974.github.io/-100devs-hair-saloon/" target="_blank">
 <img src="https://img.shields.io/badge/-website-blue?style=for-the-badge"/>
 </a>
 </p>
@@ -197,7 +178,7 @@
 
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://animal-crossing-app.netlify.app/" target="_blank">
+<a href="https://angra974.github.io/-100devs-restaurant/" target="_blank">
 <img src="https://img.shields.io/badge/-website-blue?style=for-the-badge"/>
 </a>
 
