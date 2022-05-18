@@ -47,18 +47,170 @@
 
 ---
 
-| Some of my work |
-| :-------------: |
+<h2 align="center">Highlighted Projects </h2>
+<div align="center">
+<table>
+<tr>
+<td width="50%" align="center" >
+<h3 color="white">Level ground</h2>
+<p>
+<a href='https://github.com/Angra974/-100devs-level-ground'>
+</a>
+  <img src='./gifs/level-ground.gif' title="Level Ground" alt="Level Ground">
+<br>
+<br>
 
-|[<img src="./gifs/Source.gif" width="300" height="200"  alt="Source Playground" title="Source Playgound" />](https://angra974.github.io/-100devs-level-ground/)
+  <a href="https://github.com/Angra974/-100devs-level-ground" target="_blank">
 
-<hr />
-Practicing float positionning - responsive |
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://angra974.github.io/-100devs-level-ground//" target="_blank">
+<img src="https://img.shields.io/badge/-website-blue?style=for-the-badge"/>
+</a>
+</p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 
-|[<img src="./gifs/Restaurant.gif" alt="Restaurant" title="Restaurant" />](https://angra974.github.io/-100devs-restaurant/)
+</p>
 
-<hr />
-Practicing float positionning - responsive |
+</td>
+
+<td width="50%" align="center" >
+<h3 color="white">Home wireframe</h2>
+<p>
+<a href='https://github.com/Angra974/-100devs-homepage-wireframe'>
+</a>
+  <img src='./gifs/homewireframe.gif' title="Home wireframe" alt="Home wireframe">
+<br>
+<br>
+
+  <a href="https://github.com/Angra974/-100devs-homepage-wireframe" target="_blank">
+
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://angra974.github.io/-100devs-homepage-wireframe/" target="_blank">
+<img src="https://img.shields.io/badge/-website-blue?style=for-the-badge"/>
+</a>
+</p>
+<p><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</p>
+</p>
+
+</td>
+</tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+<td width="50%" align="center" >
+<h3 color="white">Restaurant</h2>
+<p>
+<a href='https://angra974.github.io/-100devs-restaurant/'>
+</a>
+  <img src='./gifs/restaurant.gif' title="Restaurant" alt="restaurant">
+<br>
+<br>
+
+  <a href="https://angra974.github.io/-100devs-restaurant/" target="_blank">
+
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://animal-crossing-app.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-blue?style=for-the-badge"/>
+</a>
+</p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+
+</p>
+
+</td>
+
+<td width="50%" align="center" >
+<h3 color="white">Hair saloon</h2>
+<p>
+<a href='https://angra974.github.io/-100devs-hair-saloon/'>
+</a>
+  <img src='./gifs/hair-saloon.gif' title="Hair saloon" alt="Hair saloon">
+<br>
+<br>
+
+  <a href="https://angra974.github.io/-100devs-hair-saloon/" target="_blank">
+
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://animal-crossing-app.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-blue?style=for-the-badge"/>
+</a>
+</p>
+<p><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</p>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center" >
+<h3 color="white">FEM: Interactive component</h2>
+
+<a href='https://interactive-rating-component-thierryparlier.netlify.app/'>
+</a>
+  <img src='./gifs/FEM/interactive-rating-component.gif' title="Figma: interactive rating component" alt="Figma Interactive rating component" />
+<br>
+<br>
+<p>
+  <a href="https://github.com/Angra974/FrontEndMentor/Free/interactive-rating-component/" target="_blank">
+
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://interactive-rating-component-thierryparlier.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/-website-blue?style=for-the-badge"/>
+</a>
+</p>
+<p><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</p>
+
+</td>
+
+<td width="50%" align="center" >
+<h3 color="white">Cocktails</h2>
+
+<a href='angra974.github.io/-100devs-cocktails/'>
+</a>
+  <img src='./gifs/cocktail.gif' title="Restaurant" alt="restaurant">
+<br>
+<br>
+
+  <a href="https://angra974.github.io/-100devs-restaurant/" target="_blank">
+
+<img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://animal-crossing-app.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-website-blue?style=for-the-badge"/>
+</a>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
