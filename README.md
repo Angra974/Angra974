@@ -234,6 +234,8 @@
 <br>
 <p>
   My parsonal portfolio, evolution of the react Portfolio
+</p>
+ <p>
   <a href="https://angra974.github.io/vite-typescript-ssr-react/" target="_blank">
 
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
