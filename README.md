@@ -203,7 +203,7 @@
 
 <a href='https://angra974.github.io/vite-typescript-ssr-react18-portfolio/'>
 </a>
-  <img src='./gifs/Portfolio/video.gif' title="Portfolio boilerplate with React" alt="Portfolio React boilerplate" />
+  <img src='./gifs/reactPorfolio.gif' title="Portfolio boilerplate with React" alt="Portfolio React boilerplate" />
 <br>
 <br>
 <p>
@@ -227,18 +227,18 @@
 <td width="50%" align="center" >
 <h3 color="white">Personal portfolio</h2>
 
-<a href='https://angra974.github.io/vite-typescript-ssr-react18-portfolio/'>
+<a href="https://angra974.github.io/vite-typescript-ssr-react/">
 </a>
-  <img src='./gifs/Portfolio/video.gif' title="Portfolio boilerplate with React" alt="Portfolio React boilerplate" />
+  <img src='./gifs/reactPorfolio.gif' title="Portfolio boilerplate with React" alt="Portfolio React boilerplate" />
 <br>
 <br>
 <p>
   My parsonal portfolio, evolution of the react Portfolio
-  <a href="https://angra974.github.io/vite-typescript-ssr-react18-portfolio/" target="_blank">
+  <a href="https://angra974.github.io/vite-typescript-ssr-react/" target="_blank">
 
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://angra974.github.io/vite-typescript-ssr-react18-portfolio/" target="_blank">
+<a href="https://angra974.github.io/vite-typescript-ssr-react/" target="_blank">
 <img src="https://img.shields.io/badge/-website-blue?style=for-the-badge"/>
 </a>
 </p>
