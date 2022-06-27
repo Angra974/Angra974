@@ -153,7 +153,7 @@
 <br>
 <br>
 <p>
-  <a href="https://github.com/Angra974/FrontEndMentor/Free/interactive-rating-component/" target="_blank">
+  <a href="https://github.com/Angra974/FrontEndMentor/main/Free/interactive-rating-component/" target="_blank">
 
 <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
 </a>
