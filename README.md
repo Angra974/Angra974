@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently digging more on **Figma, React, TypeScript and more of Javascript**
 
-- 👯 I’m looking to collaborate on [Gitconnected](https://git-connected.herokuapp.com/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/Angra974](https://github.com/Angra974)
 
 - 📫 How to reach me **dev.thierryparlier@gmail.com** or connect with me with social media
